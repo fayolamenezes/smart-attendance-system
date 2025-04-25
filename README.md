@@ -1,6 +1,6 @@
 # Smart Attendance System
 
-## Cloud Computing Mini Project 2024-25
+## Cloud Computing Mini Project
 **Team**:  
 - Fayola Menezes (9979)  
 - Swen Rodrigues (9992)  
