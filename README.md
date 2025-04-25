@@ -24,4 +24,4 @@ The Smart Attendance System is a cloud-based solution designed to automate atten
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/fayolamenezes/smart-attendance-system.git
-   cd smart-attendance-system
+   cd attendance-system
